@@ -77,7 +77,7 @@
 
 <a id="projects"></a>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table width="100%">
 <tr>
@@ -142,7 +142,7 @@ A curated collection of study notes and project materials from my high school ye
 
 <br/><br/>
 
-<sub>⭐ come see my repos — <a href="#top">back to top</a></sub>
+<sub>⭐ come check my repos — <a href="#top">back to top</a></sub>
 
 </div>
 
