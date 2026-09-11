@@ -113,22 +113,10 @@ A curated collection of study notes and project materials from my high school ye
 
 <img src="https://streak-stats.demolab.com/?user=Lespyy&hide_border=true&background=00040D&border=003D66&stroke=000000&ring=00C8FF&fire=00C8FF&currStreakNum=00C8FF&sideNums=E6E6E6&currStreakLabel=E6E6E6&sideLabels=E6E6E6&dates=7A7A7A" alt="GitHub Streak Stats"/>
 
-<!-- 
-I seguenti widget (Trophies e Activity Graph) sono temporaneamente disattivati 
-perché i loro server restituiscono l'errore HTTP 402 (Payment Required). 
-
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Lespyy&no-frame=true&no-bg=true&row=1&column=-1&margin-w=8&margin-h=8&theme=algolia" alt="GitHub Trophies"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lespyy&bg_color=00040D&color=00C8FF&line=00C8FF&point=E6E6E6&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
--->
-
-<br/><br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lespyy/Danilo-Rinaldi.github.io/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lespyy/Danilo-Rinaldi.github.io/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Lespyy/Danilo-Rinaldi.github.io/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lespyy/Lespyy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lespyy/Lespyy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Lespyy/Lespyy/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/><br/>
