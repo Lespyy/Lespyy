@@ -4,7 +4,7 @@
 
 <img src="assets/header-banner.svg" alt="header banner" width="100%"/>
 
-<img src="./img/logo_hollow" alt="Danilo" width="150" style="border-radius: 50%; border: 4px solid #00C8FF; margin-top: -40px; box-shadow: 0 0 25px #00C8FF80;">
+<img src="./img/logo_hollow.png" alt="Danilo" width="150" style="border-radius: 50%; border: 4px solid #00C8FF; margin-top: -40px; box-shadow: 0 0 25px #00C8FF80;">
 
 <br/><br/>
 
